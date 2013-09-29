@@ -1,0 +1,13 @@
+何时需要重写equals()?
+
+如何覆写equals()和hashcode?
+
+当改写equals()的时候，为什么总是要改写hashCode()?
+
+两个对象如果equals那么这两个对象的hashcode一定相等，如果两个对象的hashcode相等那么这两个对象是否一定equals?
+
+为什么我们在定义hashcode时如： h = 31*h + val[off++];  要使用31这个数呢？
+
+comparable接口与comparator两种比较接口分析？
+
+java实现shallow clone(浅克隆）与深克隆(deep clone)？
