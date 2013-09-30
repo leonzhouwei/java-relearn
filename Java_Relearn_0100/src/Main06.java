@@ -1,5 +1,7 @@
+
 /**
- * If I do not provide any arguments on the command line, then the String array of Main method will be empty or null?
+ * If I do not provide any arguments on the command line, then the String array
+ * of Main method will be empty or null?
  * 
  * @author zhouwei.zw
  * 

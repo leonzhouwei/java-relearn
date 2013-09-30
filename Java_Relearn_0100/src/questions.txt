@@ -1,3 +1,5 @@
+袁鸣凯 Java 面试宝典 （二）
+
 何时需要重写equals()?
 
 如何覆写equals()和hashcode?
@@ -11,3 +13,10 @@
 comparable接口与comparator两种比较接口分析？
 
 java实现shallow clone(浅克隆）与深克隆(deep clone)？
+
+如何实现克隆引用对象呢？以下提供一种方法.用序列化与反序列化实现深克隆(deep copy)
+
+谈谈final， finally， finalize的区别
+
+heap中对象有强可及对象、软可及对象、弱可及对象、虚可及对象和不可到达对象。应用的强弱顺序是强、软、弱、和虚。对于对象是属于哪种可及的对象，由他的最强的引用决定。
+
